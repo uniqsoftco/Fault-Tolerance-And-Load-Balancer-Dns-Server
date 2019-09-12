@@ -1,0 +1,1 @@
+﻿dotnet "Fault Tolerance Dns Server.dll"

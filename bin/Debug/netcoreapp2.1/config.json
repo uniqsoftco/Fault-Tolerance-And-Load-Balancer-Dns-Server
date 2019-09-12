@@ -1,0 +1,9 @@
+{
+  "DnsServer": "8.8.8.8",
+  "FaultToleranceDomain": "network.uniqsoft.ir",
+  "FaultToleranceDomainTtl_s": 5,
+  "ServersDomain": "servers.uniqsoft.ir",
+  "ServerUsageFakeDomain": "usage.ta98",
+  "ServerUsageFakeDomainTtl_s": 1,
+  "PrintDebug": true
+}

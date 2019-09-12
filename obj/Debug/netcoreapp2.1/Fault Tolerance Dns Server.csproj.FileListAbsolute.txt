@@ -1,0 +1,13 @@
+C:\Users\Saeed\source\repos\Fault Tolerance Dns Server\Fault Tolerance Dns Server\bin\Debug\netcoreapp2.1\Fault Tolerance Dns Server.deps.json
+C:\Users\Saeed\source\repos\Fault Tolerance Dns Server\Fault Tolerance Dns Server\bin\Debug\netcoreapp2.1\Fault Tolerance Dns Server.runtimeconfig.json
+C:\Users\Saeed\source\repos\Fault Tolerance Dns Server\Fault Tolerance Dns Server\bin\Debug\netcoreapp2.1\Fault Tolerance Dns Server.runtimeconfig.dev.json
+C:\Users\Saeed\source\repos\Fault Tolerance Dns Server\Fault Tolerance Dns Server\bin\Debug\netcoreapp2.1\Fault Tolerance Dns Server.dll
+C:\Users\Saeed\source\repos\Fault Tolerance Dns Server\Fault Tolerance Dns Server\obj\Debug\netcoreapp2.1\Fault Tolerance Dns Server.csproj.CoreCompileInputs.cache
+C:\Users\Saeed\source\repos\Fault Tolerance Dns Server\Fault Tolerance Dns Server\obj\Debug\netcoreapp2.1\Fault Tolerance Dns Server.AssemblyInfoInputs.cache
+C:\Users\Saeed\source\repos\Fault Tolerance Dns Server\Fault Tolerance Dns Server\obj\Debug\netcoreapp2.1\Fault Tolerance Dns Server.AssemblyInfo.cs
+C:\Users\Saeed\source\repos\Fault Tolerance Dns Server\Fault Tolerance Dns Server\bin\Debug\netcoreapp2.1\Fault Tolerance Dns Server.pdb
+C:\Users\Saeed\source\repos\Fault Tolerance Dns Server\Fault Tolerance Dns Server\obj\Debug\netcoreapp2.1\Fault Tolerance Dns Server.dll
+C:\Users\Saeed\source\repos\Fault Tolerance Dns Server\Fault Tolerance Dns Server\obj\Debug\netcoreapp2.1\Fault Tolerance Dns Server.pdb
+C:\Users\Saeed\source\repos\Fault Tolerance Dns Server\Fault Tolerance Dns Server\bin\Debug\netcoreapp2.1\start_linux.sh
+C:\Users\Saeed\source\repos\Fault Tolerance Dns Server\Fault Tolerance Dns Server\bin\Debug\netcoreapp2.1\start_windows.bat
+C:\Users\Saeed\source\repos\Fault Tolerance Dns Server\Fault Tolerance Dns Server\obj\Debug\netcoreapp2.1\Fault Tolerance Dns Server.csprojAssemblyReference.cache
